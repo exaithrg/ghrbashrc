@@ -1,0 +1,2 @@
+# ghrbashrc
+my bash configuration
