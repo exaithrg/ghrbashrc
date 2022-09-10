@@ -1,3 +1,5 @@
 # ghrbashrc
 my bash configuration
-also include zsh/csh configuration
+
+also will include zsh/csh configuration in the future
+
